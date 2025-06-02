@@ -111,7 +111,7 @@ def _train_and_save_model(df):
 
 
 # --- Sidebar Navigation ---
-st.sidebar.title("Navigation")
+st.sidebar.title("Dashboard Diabetes Prediction")
 page = st.sidebar.radio("Go to", ["1. Exploratory Data Analysis", "2. Model Evaluation", "3. Prediction"])
 
 # Load the data once
