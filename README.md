@@ -1,2 +1,2 @@
-# diabetes project predict
+# diabetes predict
 Streamlit app for diabetes prediction
